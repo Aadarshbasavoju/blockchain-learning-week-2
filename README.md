@@ -18,17 +18,17 @@ Exercises:
 
   
 
-  -  File: \`exercise8.js\`
+  -  File: `exercise8.js`
 
-  -  Run: \`node exercise8.js\`
+  -  Run: `node exercise8.js`
 
 2. Data Manipulations(without Async & Await):
 
   
 
-  -  File: \`exercise9.js\`
+  -  File: `exercise9.js`
 
-  -  Run: \`node exercise9.js\`
+  -  Run: `node exercise9.js`
 
   
 
@@ -36,9 +36,9 @@ Exercises:
 
   
 
-  -  File: \`exercise10.sol\`
+  -  File: `exercise10.sol`
 
-  -  Run: \`remix - deploy exercise10.sol\`
+  -  Run: `remix - deploy exercise10.sol`
 
   
 
@@ -46,9 +46,9 @@ Exercises:
 
   
 
-  -  File: \`exercise11.sol\`
+  -  File: `exercise11.sol`
 
-  -  Run: \`remix - deploy exercise11.sol\`
+  -  Run: `remix - deploy exercise11.sol`
 
   
 
@@ -56,7 +56,7 @@ Exercises:
 
   
 
-  -  File: \`exercise12.md\`
+  -  File: `exercise12.md`
 
   
 
@@ -64,4 +64,4 @@ Exercises:
 
   
 
-\- To run the exercise11 do, write npx hardhat run deploy.js --network <network-name>
+\- To run the exercise11 do, write 'npx hardhat run deploy.js --network <network-name>'
